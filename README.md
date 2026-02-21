@@ -5,7 +5,7 @@
 The EternalBlue-Splunk lab aimed to establish a controlled virtualized environment for simulating and detecting a remote code execution (RCE) attack. The primary focus was to exploit the MS17-010 (EternalBlue) vulnerability on a legacy Windows 7 system and analyze the resulting telemetry within a Splunk SIEM on Ubuntu Linux. This hands-on experience was designed to bridge the gap between offensive exploitation and defensive monitoring, deepening the understanding of kernel-level attack patterns and SIEM correlation strategies.
 
 > [!IMPORTANT]
-> **Technical Depth:** This README serves as a high-level summary of the lab. For a granular, 28-page step-by-step guide covering full environment configuration, network setup, and detailed attack/defense execution, please see the [Full Project Documentation](https://github.com/user-attachments/files/25456216/EternalBlue-Homelab-Project.pdf).
+> **Technical Depth:** This README serves as a high-level summary of the lab. For a granular, 34-page step-by-step guide covering full environment configuration, network setup, and detailed attack/defense execution, please see the [Full Project Documentation](https://github.com/user-attachments/files/25456216/EternalBlue-Homelab-Project.pdf).
 
 ### Skills Learned
 

@@ -10,7 +10,7 @@ The EternalBlue-Splunk lab aimed to establish a controlled virtualized environme
 ## Lab Architecture
 
 ![Network Topology Diagram](https://github.com/user-attachments/assets/7a544c3c-9e68-4a91-ba29-00d3796e7407)
-> **Figure 1:** *Logical network diagram of the isolated lab environment (192.168.1.0/24). The red path indicates the MS17-010 exploitation traffic, while the blue path represents the telemetry flow from the Windows 7 Universal Forwarder to the Splunk SIEM.*
+> **Figure 1:** *Logical network diagram of the isolated lab environment (192.168.1.0/24). The red path indicates the MS17-010 exploitation traffic, while the green path represents the telemetry flow from the Windows 7 Universal Forwarder to the Splunk SIEM.*
 
 ### Skills Learned
 

@@ -7,6 +7,11 @@ The EternalBlue-Splunk lab aimed to establish a controlled virtualized environme
 > [!IMPORTANT]
 > **Technical Depth:** This README serves as a high-level summary of the lab. For a granular, 34-page step-by-step guide covering full environment configuration, network setup, and detailed attack/defense execution, please see the [Full Project Documentation](https://github.com/user-attachments/files/25456454/EternalBlue-Homelab-Project.pdf).
 
+## Lab Architecture
+
+![Network Topology Diagram](https://github.com/user-attachments/assets/7a544c3c-9e68-4a91-ba29-00d3796e7407)
+> **Figure 1:** *Logical network diagram of the isolated lab environment (192.168.1.0/24). The red path indicates the MS17-010 exploitation traffic, while the blue path represents the telemetry flow from the Windows 7 Universal Forwarder to the Splunk SIEM.*
+
 ### Skills Learned
 
 - **SIEM Correlation:** Identified and correlated Windows EventCodes (4624 and 4672) and analyzing Logon Types (Type 3 vs Type 5).

@@ -17,7 +17,7 @@ The EternalBlue-Splunk lab aimed to establish a controlled virtualized environme
 - **SIEM Correlation:** Identified and correlated Windows EventCodes (4624 and 4672) and analyzing Logon Types (Type 3 vs Type 5).
 - **Vulnerability Assessment:** Utilized Nmap and the Nmap Scripting Engine (NSE) to identify vulnerable SMBv1 services.
 - **Exploitation Frameworks:** Demonstrated understanding of the Metasploit Framework to execute kernel-level exploits.
-- **Endpoint Monitoring:** Configured Splunk Universal Forwarders to ingest security logs and monitor "honeytoken" files.
+- **Endpoint Monitoring:** Configured Splunk Universal Forwarders to ingest security logs and monitor honeyfiles.
 - **Detection Strategy Logic:** Identified SIEM alert logic based on temporal correlation and non-standard logon sequences.
 
 ### Tools Used
